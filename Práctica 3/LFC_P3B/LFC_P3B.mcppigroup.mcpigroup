@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\LFC_P3A\LFC_P3A.mcppi
+Project1=LFC_P3B.mcppi
+[ActiveProject]
+Index=1

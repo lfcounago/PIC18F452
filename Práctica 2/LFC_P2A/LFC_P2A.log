@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F452 -DL -O11111114 -fo8 -N"C:\Users\luisf\Desktop\ESEI 23-24\2C\HAE - Hardware de Aplicación Específica\Prácticas 2024\LFC_Práctica 2\LFC_P2-A\LFC_P2A.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\luisf\Desktop\ESEI 23-24\2C\HAE - Hardware de Aplicación Específica\Prácticas 2024\LFC_Práctica 2\LFC_P2-A\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "LFC_P2A.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	LFC_P2A.c
+error: 8	315	Invalid expression	LFC_P2A.c
+error: 7	402	; expected, but 'int' found	LFC_P2A.c
+error: 8	424	'}' expected ';' found	LFC_P2A.c
+error: 39	371	Specifier needed	LFC_P2A.c
+error: 39	396	Invalid declarator expected'(' or identifier	LFC_P2A.c
+error: 41	402	; expected, but '}' found	LFC_P2A.c
+error: 41	312	Internal error ''	LFC_P2A.c
+error: 0	102	Finished (with errors): 15 feb. 2024, 20:41:04	LFC_P2A.mcppi
