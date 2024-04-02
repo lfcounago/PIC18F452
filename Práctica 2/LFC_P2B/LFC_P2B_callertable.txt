@@ -1,8 +1,0 @@
-main
-	__CC2DW
-	BinaryToDecimal
-		Div_8X8_U
-	Div_16x16_S
-		Div_16x16_S_L
-	DisplayDigit
-	Div_8X8_U
